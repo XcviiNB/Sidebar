@@ -6,8 +6,10 @@
 <template>
 
 <Layout1>
+    <nav class="flex items-center justify-between p-3 bg-blue-800">
+        <h1 class="text-3xl">Home</h1>
+    </nav>
     <div class="p-8">
-        <h1 class="text-4xl">Home</h1>
         <p>
             Amazon Smirks, a fictional e-commerce giant, has revolutionized the way we shop and interact with technology. Just like its real-world counterpart, Amazon Smirks boasts a vast online marketplace where customers can find virtually anything they desire, from electronics and fashion to groceries and entertainment. With its user-friendly interface and cutting-edge recommendation algorithms, Amazon Smirks tailors the shopping experience to each individual, making it easier than ever to discover new products that align with your interests and preferences.
         </p>
