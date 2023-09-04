@@ -7,7 +7,7 @@
 
 <Layout1>
     <nav class="flex items-center justify-between p-3 bg-blue-800">
-        <h1 class="text-3xl">Home</h1>
+        <h1 class="text-3xl text-yellow-400">Home</h1>
     </nav>
     <div class="p-8">
         <p>
